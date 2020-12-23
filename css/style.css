@@ -23,7 +23,7 @@ body, html{
   }
   
   .pimg1{
-    background-image:url("https://source.unsplash.com/1600x900/?miniproject,background");
+    background-image:url("https://source.unsplash.com/1600x900/");
     min-height:100%;
   }
   
